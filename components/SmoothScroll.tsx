@@ -1,0 +1,11 @@
+"use client";
+
+import { useEffect } from "react";
+
+export default function SmoothScroll() {
+  useEffect(() => {
+    document.documentElement.style.scrollBehavior = "smooth";
+  }, []);
+
+  return null;
+}

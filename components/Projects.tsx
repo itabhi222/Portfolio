@@ -8,17 +8,13 @@ const projects = [
     title: "AWS Infrastructure Deployment",
     description:
       "Designed and managed cloud infrastructure using EC2, S3, IAM and CloudFront with secure access control.",
-    tech: ["AWS", "EC2", "IAM", "S3", "CloudFront"],
-    github: "#",
-    demo: "#",
+    tech: ["AWS", "EC2", "IAM", "S3", "CloudFront"]
   },
   {
     title: "Sophos Firewall Administration",
     description:
       "Configured VPN, NAT, firewall policies, web filtering, SSL certificates and enterprise network security.",
-    tech: ["Sophos", "VPN", "NAT", "Firewall"],
-    github: "#",
-    demo: "#",
+    tech: ["Sophos", "VPN", "NAT", "Firewall"]
   },
   {
     title: "Microsoft 365 Administration",

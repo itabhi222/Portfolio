@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const stats = [
   {
-    number: "3+",
+    number: "4",
     label: "Years Experience",
   },
   {
@@ -16,7 +16,7 @@ const stats = [
     label: "Technologies",
   },
   {
-    number: "100+",
+    number: "300+",
     label: "Projects & Tasks",
   },
 ];
@@ -44,9 +44,9 @@ export default function About() {
           transition={{delay:.2}}
           className="mx-auto mt-10 max-w-4xl text-center text-lg leading-9 text-gray-400"
         >
-          System Administrator with 3+ years of experience managing
+          System Administrator with 4 years of experience managing
           Windows Server, Ubuntu Linux, AWS Cloud,
-          Microsoft 365, Azure Entra ID,
+          Microsoft 365, Azure Entra ID, CloudFlare,
           Active Directory and Sophos Firewall.
 
           Experienced in deploying production applications,

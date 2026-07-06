@@ -6,8 +6,9 @@ const experiences = [
   {
     company: "DigiMantra Pvt. Ltd.",
     role: "System Administrator",
-    duration: "Feb 2025 - Present",
+    duration: "May 2025 - Present",
     points: [
+      "Supported 250+ users.",
       "Managed AWS (EC2, S3, IAM, CloudFront).",
       "Managed Ubuntu Linux production servers.",
       "Configured Apache, WordPress & Node.js deployments.",
@@ -20,10 +21,11 @@ const experiences = [
     role: "Windows Administrator",
     duration: "Oct 2024 - Feb 2025",
     points: [
+      "Supported 750+ users.",
       "Managed Windows Server 2019/2022.",
       "Administered AD DS, DNS, DHCP & GPO.",
       "Supported 100+ endpoints.",
-      "Managed Check Point Firewall & Bitdefender.",
+      "Managed Sophos Firewall.",
     ],
   },
   {
@@ -42,7 +44,7 @@ const experiences = [
     role: "Network Engineer",
     duration: "Nov 2022 - May 2023",
     points: [
-      "Supported 750+ users.",
+      "Supported 100+ users.",
       "Managed Windows Server & Linux.",
       "Managed Azure Entra ID & AWS.",
       "Supported Microsoft 365.",
